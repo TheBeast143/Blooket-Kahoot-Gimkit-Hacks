@@ -10,7 +10,6 @@ Please keep in mind I AM NOT RESPONSIBLE FOR YOUR ACTIONS WITH THIS CODE
 <details><summary><h3>How to use</h3></summary>
 
 There are 3 good methods to using these scripts:
-1. Importing one of the Bookmarklets.html files using [these instructions](https://github.com/005Konz/Blooket-Cheats/blob/main/tutorial/readme.md)
-2. Going to the [GitHub pages site](https://005konz.github.io/Blooket-Cheats/), choosing a gamemode, then dragging a cheat to your bookmarks bar or clicking one to copy the script
-3. Copying a script and running it in the inspect element console
+1. Importing one of the Bookmarklets.html files using [these instructions](https://docs.google.com/document/d/1y9ZkDatKTRcwt33WgrDx83tqioy5E-MpCG3f8UDM_PM/edit?usp=sharing)
+3. Copying a script and running it in the inspect element console (USE CHEATS THAT END IN .JS not .min.js) To access the console do ctrl+shift+j
 </details>
